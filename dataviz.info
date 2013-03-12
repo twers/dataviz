@@ -1,0 +1,5 @@
+name = DataViz
+description = Provides a View style that displays view as different chart. data visualization for view fields.
+dependencies[] = views
+package = Views
+core = 7.x
