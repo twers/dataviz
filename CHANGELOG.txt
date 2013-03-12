@@ -1,0 +1,4 @@
+dataviz 7.x-0.1, 2013-03-12
+---------------------------
+
+# added default folder and files to follow standard structure
